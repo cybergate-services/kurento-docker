@@ -44,7 +44,7 @@ MAINTAINER Fede Diaz <nordri@gmail.com>
 MAINTAINER Juan Navarro <juan.navarro@gmx.es>
 
 ARG UBUNTU_VERSION="xenial"
-ARG KMS_VERSION="dev"
+ARG KMS_VERSION="6.13.1"
 
 # Configure environment:
 # * DEBIAN_FRONTEND: Disable Apt interactive questions and messages
